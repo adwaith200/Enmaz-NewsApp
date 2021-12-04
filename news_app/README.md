@@ -1,16 +1,6 @@
-# news_app
+Flutter-News-App
+Its an app that is used to fetch the real time world news. News are categorized into different genre like sports, health, business etc. It also consists of the web view where user can view the detailed news into the respective website.
 
-A new Flutter project.
+System requirements:8gb ram, Android sdk version above 16, flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+steps to run the app on local machine: 1.clone the repository into your local folder. 2.open news_app folder into VS CODE 3.run the app in debugger mode by using an emulator or your own phone.
